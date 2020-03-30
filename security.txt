@@ -1,40 +1,7 @@
 Please, please, please don't hack me 
 @mattRinaldi
-I worked like wayyy too hard on this, so if you find any vulnerabilities (which you will), send pull requests to my github @WH1T354UC3 or fill out the form below 
+I worked like wayyy too hard on this, so if you find any vulnerabilities (which you will), send pull requests to my github @WH1T354UC3 or fill out the form below on the website's home page
 Thank you for looking out for a fellow hacker!
 
 Kind regards,
 WH1T354UC3
-
-
-     <div id="qcc">
-            <form>
-                <section>
-                    <p> 
-                     If you have any questions, comments or concerns, feel free to fill out the form below.
-                    </p>
-                    <label for="urname">Enter your name 
-                    </label>
-                    <br>
-                    <input type="text" name="name" id="urname">
-                    </input>
-                </section>
-                <section>
-                    <label for="contactMethod">Enter your preffered method of contact
-                    </label>
-                    <br>
-                    <input type="text" name="contact" id="contactMethod">
-                    </input>
-                </section>
-                <section>
-                    <label for="messageHere"> Enter your message 
-                    </label>
-                    <br>
-                    <textarea name="Message" id="messageHere" rows="5 cols="10>
-                    </textarea>
-                    </input>
-                </section>
-                <input type="submit">
-                </input>
-            </form>
-        </div>
