@@ -31,3 +31,7 @@ a,
 }
 .tillman{
   background-image:url(/images/tillman.jpeg);
+  
+ light{
+   font-weight:20;
+  }
