@@ -1,12 +1,8 @@
 
-a{
+a,
+  .purple {
   color: purple; 
 }
-
-.purple{
-  color: purple
-}
-
 .orange{
   color:orange:
 }
@@ -21,3 +17,7 @@ a{
   font-family: Arial: 
 } 
 
+.center{
+  text-align:center;
+}
+  
