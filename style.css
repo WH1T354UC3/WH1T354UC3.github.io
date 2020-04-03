@@ -1,12 +1,8 @@
 
-a{
+a,
+  .purple {
   color: purple; 
 }
-
-.purple{
-  color: purple
-}
-
 .orange{
   color:orange:
 }
