@@ -1,0 +1,146 @@
+<div id="education bb">
+    <h2> 
+        <p> *** </p>
+        Education  
+        <p> *** </p>
+     </h2>
+<h3>
+    Clemson University, Expected Graduation: May 2023 <br>
+</h3>
+<h4>  
+          Bachelor of Science, majoring in Spanish and International Health with a minor in Computer Science 
+     </h4>  
+    <ul>
+        <li>
+               Active member of CU Cyber, Clemson’s competitive Cybersecurity club  
+        </li>
+         <li>
+             Enrolled in red team and blue team cyber defense training courses 
+        </li>
+        <li>
+              CTF competitor (Hivestorm, Sitting Duck and more) 
+        </li> 
+        <li>   
+               2019 CUHackIt HELLOWORLD Hackathon winner 
+        </li>    
+        <li>
+              2019 WRCCDC Qualifier (Western Regional Collegiate Cyber Defense Competition) Top 5 finisher 
+        </li>  
+        <li> 
+               Splunk Boss of the SOC CTF top 3 finisher 
+        </li>
+     <li> 
+               Clemson Sailing, leadership position: Grill Master
+        </li>
+    </ul>
+</div>
+    
+        <div id="leadership and experience">
+            <h2> 
+
+                <p> *** </p>
+                 Leadership and Relevant Experience
+                 <p> *** </p>
+
+            </h2>
+     <h4>
+        <a href="https://cucyber.net" target="_blank" > CUCyber </a> Treasurer January 2020 - current 
+     </h4>
+        <ul> 
+            <li> 	
+                Developed and balanced the annual budget 
+           
+            </li>
+            <li> 
+                Increased funding through fundraising and cooperate sponsorship by more than $18,000S USD
+            
+             </li>
+        </ul>
+        <h4> 
+            <a href="https://www.nationalccdc.org" target ="_blank" > CCDC</a> Competitions team -Co-Captain 								January 2020-current                             
+        </h4>
+         <ul>
+             <li>
+                  Devised team training of Linux and Windows virtual machines 
+            </li>
+            <li>  
+                Conveyed business and security objectives to companies by successfully composing injects and memorandums 
+            </li>
+        </ul>
+        <h4> 
+            Cyber Defense CPSC 2810 -Teaching Assistant 								January 2020-current                             
+         </h4>
+         <ul>
+            <li>
+                 Learned how to effectively lead class work and discussion 
+            </li>
+                Communicated with other TA’s and Professors to coordinate class schedules, and maintain course efficiency  
+            </li>
+        </ul>  
+    </div>
+    <div id="work experience">
+        <h2 class="purple">
+
+            <p> *** </p>
+            Work Experience
+            <p> *** </p>
+
+        </h2>
+        <h3> 
+            <a href="https://chq.org" target="_blank"> Chautauqua Institution </a>
+         </h3>
+        <h4>
+            La Familia  - server  June 2019 - August 2019 
+         </h4>
+        
+         <ul> 
+        <li> 	
+            Displayed advanced customer service competencies 
+        </li>
+        <li> 
+            Thrived in a high volume and high turn-over environment eventuating in routinely ranking top 3 amongst all wait staff for the highest ticket averages
+        </li>
+    </ul>
+    <h4> 
+        Chautauqua Boy’s and Girl’s Club -Head Counselor						    Summers of 2018 and 2019
+    </h4>
+    <ul>
+        <li>
+             Organized and developed camp activities for second, eighth, and tenth grade girls and boys
+        </li>
+        <li>
+             Maintained a high energy and professional demeanor while interacting with children, parents and other staff members resulting in the promotion to Head Counselor 
+        </li>
+    </ul>
+</div>
+<div id="languages and special skills">
+    <h2 class="purple"> 
+
+        <p> *** </p>
+        Languages and Special Skills 
+        <p> *** </p>
+
+     </h2>
+    <ul>
+        <li>
+            Java programming -intermediate
+        </li>
+         <li>
+             C programming - beginner
+        </li>
+        <li>
+             Processing programming - intermediate 
+        </li> 
+        <li>   
+            HTML - novice
+        </li>    
+        <li>
+            Spanish -proficient in reading, writing, speaking and comprehension 
+        </li>  
+        <li> 
+            Advanced in technical writing 
+        </li>
+        <br>
+        <br>
+    </ul>
+</div>
