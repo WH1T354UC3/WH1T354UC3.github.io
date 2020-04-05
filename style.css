@@ -32,6 +32,7 @@ a,
 .tillman{
   background-image:url(/images/tillman.jpeg);
   height: 700px;
+  border: medium inset orange;
   
  .light{
    font-weight:100;
