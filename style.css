@@ -42,7 +42,6 @@ a,
     font-size:30; 
   }
 .jank{
-  color: blue;
   font-family:"comic sans";
     background: red; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet); /* For Safari 5.1 to 6.0 */
