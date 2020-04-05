@@ -38,6 +38,6 @@ a,
   border: medium inset blue;
   font-weight: lighter;
   
-  .white{
-    color:white;
+  .links{
+    font-size:30; 
   }
