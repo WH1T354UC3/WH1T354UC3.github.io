@@ -37,3 +37,7 @@ a,
   height: 700px;
   border: medium inset orange;
   font-weight: lighter;
+  
+  .white{
+    color:white;
+  }
