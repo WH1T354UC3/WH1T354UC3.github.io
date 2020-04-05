@@ -29,13 +29,13 @@ a,
 .header{
   font-size:55px;
   font-weight:1000;
-  color: white; 
+  font-family: "Apple Chancery";
   
 }
 .tillman{
   background-image:url(/images/tillman.jpeg);
   height: 700px;
-  border: medium inset orange;
+  border: medium inset blue;
   font-weight: lighter;
   
   .white{
