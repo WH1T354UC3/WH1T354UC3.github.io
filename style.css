@@ -49,3 +49,6 @@ a,
     background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet); /
   }
+  h1{
+    border: 1px solid black;
+  }
