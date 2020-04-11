@@ -50,5 +50,6 @@ a,
     background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet); /
   }
   h1{
+    background: grey;
     border: 1px solid black;
   }
