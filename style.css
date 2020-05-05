@@ -24,10 +24,6 @@
     border: 2px solid black; 
   }
 
-  .lnk{
-    font-size:20;
-  }
-
   .ground{
   background-image: url('https://cdn.pixabay.com/photo/2016/09/13/19/31/texture-1668079_960_720.jpg');
   background-position: center top;
