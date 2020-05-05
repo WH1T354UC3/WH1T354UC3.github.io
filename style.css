@@ -40,3 +40,7 @@
   .docBord{
     border: 5px solid #AFA; 
   }
+
+  .heBord{
+    border: 5px solid white; 
+  }
