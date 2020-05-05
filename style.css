@@ -20,10 +20,10 @@
   font-family: "Garamond";
 }
   
-  .links{
-    font-size: 20; 
-  }
-
   .border{
     border: 2px solid black; 
+  }
+
+  .lnk{
+    font-size:20;
   }
