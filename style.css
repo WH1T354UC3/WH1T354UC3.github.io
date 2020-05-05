@@ -45,3 +45,7 @@
   .heBord{
     border: 5px solid black; 
   }
+  .fBord{
+    border:5px solid black; 
+    margin-top: 10px;
+  }
