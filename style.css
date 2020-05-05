@@ -21,7 +21,7 @@
 }
   
   .border{
-    border: 2px solid black; 
+    border: 2px solid white ; 
     padding: 20px;
   }
 
@@ -43,5 +43,5 @@
   }
 
   .heBord{
-    border: 5px solid white; 
+    border: 5px solid black; 
   }
