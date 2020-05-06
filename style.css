@@ -97,10 +97,10 @@
   }
 
   .prBord{
-    border: 10px solid #FAA; 
+    border: 10px solid white; 
     border-collapse: collapse;
-    margin-left: 570px;
-    margin-right: 570px;
+    margin-left: 565px;
+    margin-right: 565px;
     padding: 0px;
   }
 
