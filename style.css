@@ -97,14 +97,14 @@
   }
 
   .prBord{
-    border: 10px solid #AAA; 
+    border: 10px solid #FAA; 
     border-collapse: collapse;
-    margin-left: 575px;
-    margin-right: 575px;
+    margin-left: 570px;
+    margin-right: 570px;
     padding: 0px;
   }
 
-  
+
   .white{
     color: darkblue; 
   }
