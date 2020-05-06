@@ -54,6 +54,13 @@
     margin-right: 217px;
     padding:0; 
   }
+  .aBord{
+    border: 5px solid black; 
+    border-collapse: collapse;
+    margin-left: 220px;
+    margin-right: 210px;
+    padding:0; 
+  }
 
   .fBord{
     margin-top: 10px;
