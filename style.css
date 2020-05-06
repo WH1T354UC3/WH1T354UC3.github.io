@@ -46,6 +46,9 @@
   .heBord{
     border: 5px solid black; 
   }
+  .pBord{
+    border: 5px solid white; 
+  }
 
   .sheBord{
     border: 5px solid black; 
