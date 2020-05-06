@@ -99,6 +99,7 @@
 
   .prBord{
     border: 10px solid #AFA; 
+    border-collapse: collapse;
     margin: 50px;
     padding: 0px;
   }
