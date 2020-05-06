@@ -30,9 +30,11 @@
   background-position: center top;
   background-size: cover;
   }
+
   .heground{
     background-color: #AFA;
   }
+
   .docBord{
     border: 5px solid #AFA; 
     margin: 20px; 
@@ -40,6 +42,7 @@
     margin-right: 5px;
     margin-top: 15px;
   }
+  
   .heBord{
     border: 5px solid black; 
   }
