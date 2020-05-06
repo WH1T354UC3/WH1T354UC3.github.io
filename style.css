@@ -50,7 +50,7 @@
   .sheBord{
     border: 5px solid black; 
     border-collapse: collapse;
-    margin: 220px;
+    margin-left: 220px;
     margin-right: 217px;
     padding:0; 
   }
