@@ -82,3 +82,8 @@
     text-shadow: 0.25px 0.25px 0.25px #000000;
     border: 2px solid white; 
   }
+
+  .prBord{
+    border: 10px solid white; 
+    margin:500px;
+  }
