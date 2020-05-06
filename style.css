@@ -80,4 +80,5 @@
     color: white;
     height: 500px;
     text-shadow: 0.25px 0.25px 0.25px #000000;
+    border: 2px solid white; 
   }
