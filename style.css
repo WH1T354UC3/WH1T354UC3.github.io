@@ -95,13 +95,13 @@
     text-shadow: 0.25px 0.25px 0.25px #000000;
     border: 2px solid white; 
   }
-  
+
 
   .prBord{
     border: 10px solid white; 
     border-collapse: collapse;
-    margin-left: 565px;
-    margin-right: 565px;
+    margin-left: 560px;
+    margin-right: 560px;
     padding: 0px;
   }
 
