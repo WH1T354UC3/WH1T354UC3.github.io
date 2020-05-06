@@ -88,4 +88,5 @@
   .prBord{
     border: 10px solid white; 
     margin:50px;
+    padding:0px;
   }
