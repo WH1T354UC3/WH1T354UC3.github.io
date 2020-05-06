@@ -35,7 +35,7 @@
     background-color: #AFA;
   }
 
-  
+
   .docBord{
     background-color: white; 
     border: 5px solid black; 
@@ -87,5 +87,5 @@
 
   .prBord{
     border: 10px solid white; 
-    margin:500px;
+    margin:50px;
   }
