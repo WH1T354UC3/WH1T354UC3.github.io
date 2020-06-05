@@ -75,7 +75,7 @@
     border: 5px solid black; 
     border-collapse: collapse;
     margin-left: 220px;
-    margin-right: 210px;
+    margin-right: 210px; 
     padding:0; 
   }
 
@@ -108,7 +108,7 @@
     color: darkblue; 
   }
 
-.marg{
+  .marg{
   margin: 20; 
   margin-left: 30;
   margin-right: 30;
