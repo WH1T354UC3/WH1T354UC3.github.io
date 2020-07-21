@@ -1,6 +1,6 @@
 Please, please, please don't hack me 
 @mattRinaldi
-I worked like wayyy too hard on this, so if you find any vulnerabilities (which you will), send pull requests to my github @WH1T354UC3 or fill out the form on the website's home page
+I worked like wayyy too hard on this, so if you find any vulnerabilities (which you will), send pull requests to my github @WH1T354UC3 or fill out the form on the website's contact page
 Thank you for looking out for a fellow hacker!
 
 Kind regards,
